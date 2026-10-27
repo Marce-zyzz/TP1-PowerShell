@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabajo Practico 1 - PowerShell</title>
+</head>
+<body>
+    <h1>Trabajo Practico 1: PowerShell</h1>
+
+    <h2>Objetivo</h2>
+    <p>
+        Obtener informacion de PowerShell, la politica de ejecucion,
+        la edicion del sistema operativo y los datos generales de la PC.
+    </p>
+
+    <h2>Script realizado</h2>
+    <p>
+        El script utiliza $PSVersionTable, Get-ExecutionPolicy,
+        Get-ComputerInfo y systeminfo.
+    </p>
+
+    <p>
+        <a href="TP1_PowerShell.ps1">
+            Ver o descargar el script de PowerShell
+        </a>
+    </p>
+</body>
+</html>
